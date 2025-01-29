@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This the GitHub profile of David Dell'Aquila, currently a film student at Canadore College.
+I'm using this platform as a form of version control for a film project.
+
+I sure hope it works. Don't ask.
+
+-David
 <!--
 **HipRubberducky/HipRubberducky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
